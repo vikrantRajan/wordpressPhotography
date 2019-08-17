@@ -26,7 +26,7 @@ define( 'DB_NAME', 'vikrantr_wordpressphotography' );
 define( 'DB_USER', 'vikrantr_vik' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', '/.,123pikiiscool' );
+define( 'DB_PASSWORD', '/.,' );
 
 /** MySQL hostname */
 define( 'DB_HOST', '192.185.103.168' );
